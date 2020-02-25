@@ -1,6 +1,5 @@
-## SETUP INSTRUCTION
-
-git clone https://github.com/OlooJulius/forking-team3.git
- 
-to local machine.
+## Languages Used
+markdown
+## Description
+This is a project that helps us in practising collaboration on git hub.
 
