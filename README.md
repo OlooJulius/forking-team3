@@ -4,10 +4,10 @@ Forking team-3
 
 
 ##Author
-Oloo Julius
-Wambui Florence
-Ateka Jacinta
-Ntinyari Edith
+Oloo Julius<br>
+Wambui Florence<br>
+Ateka Jacinta<br>
+Ntinyari Edith<br>
 
 
 
