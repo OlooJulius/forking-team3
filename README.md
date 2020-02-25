@@ -1,9 +1,9 @@
-##Project name:
+## Project name:
 
 Forking team-3
 
 
-##Author
+## Author
 Oloo Julius<br>
 Wambui Florence<br>
 Ateka Jacinta<br>
